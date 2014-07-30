@@ -3,3 +3,7 @@ mkfs.hfsplus -v ThisIsFoo /tmp/foo.dmg
 mount -o loop /tmp/foo.dmg /mnt/foo
 
  sudo apt-get install hfsprogs hfsutils hfsplus
+
+
+dd for windows
+http://www.chrysocome.net/dd
